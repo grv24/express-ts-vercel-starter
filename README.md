@@ -2,6 +2,9 @@
 
 This repository contains a boilerplate for setting up an Express project with TypeScript, including a structured folder setup with controllers and models. Follow the steps below to get started.
 
+
+[Visit-Link](https://express-ts-vercel-starter.vercel.app/)
+
 ## Table of Contents
 
 1. [Initialize Node Project](#initialize-node-project)
@@ -11,10 +14,11 @@ This repository contains a boilerplate for setting up an Express project with Ty
 5. [Update tsconfig.json](#update-tsconfigjson)
 6. [Write Express Server Code](#write-express-server-code)
 7. [Update Scripts in `package.json`](#update-scripts-in-packagejson)
-8. [Create Vercel Project](#create-vercel-project)
+8. [Create Vercel Account](#create-vercel-account)
 9. [Add Vercel Configuration](#add-vercel-configuration)
 10. [Update pakage.json](#update-packagejson)
-11. [Run command before push the code ](#update-packagejson)
+11. [Add Project on vercel](#add-project)
+12. [Run command before push the code ](#update-packagejson)
 
 ---
 
@@ -250,3 +254,7 @@ npm install dotenv  rimraf express @types/express typescript ts-node nodemon dot
 - npm run ts.check: Type-check your TypeScript code to ensure there are no type errors.
 
 - npm run add-build: Stage the build output for committing to your Git repository.
+
+
+## 11. Add project on your vercel account
+## 12. Push code on git 
