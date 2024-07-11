@@ -8,3 +8,11 @@ This repository contains a boilerplate for setting up an Express project with Ty
 
 1. [Initialize Node Project](#initialize-node-project)
 2. [Install And Initalialize Typescript](#install-typescript)
+3. [Install Packages](#install-packages)
+4. [Folder Structure](#project-folder-structure)
+5. [Update tsconfig.json](#update-tsconfigjson)
+6. [Write Express Server Code](#write-express-server-code)
+7. [Update Scripts in `package.json`](#update-scripts-in-packagejson)
+
+
+
