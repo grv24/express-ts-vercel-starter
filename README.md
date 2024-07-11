@@ -6,5 +6,5 @@ This repository contains a boilerplate for setting up an Express project with Ty
 
 ## Table of Contents
 
-[Initialize Node Project](#initialize-node-project)
-[Install And Initalialize Typescript](#install-typescript)
+1. [Initialize Node Project](#initialize-node-project)
+2. [Install And Initalialize Typescript](#install-typescript)
