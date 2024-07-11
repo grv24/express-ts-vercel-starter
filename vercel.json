@@ -12,8 +12,5 @@
       "src": "/(.*)",
       "dest": "dist/index.js"
     }
-  ],
-  "hooks": {
-    "predeploy": "npm run build"
-  }
+  ]
 }
