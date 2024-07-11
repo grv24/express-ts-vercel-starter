@@ -4,7 +4,10 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "dev": "nodemon -r dotenv/config --exec ts-node src/index.ts"
+    "dev": "nodemon -r dotenv/config --exec ts-node src/index.ts",
+    "build": "rimraf dist && tsc",
+    "ts.check": "tsc --project tsconfig.json",
+    "add-build": "git add dist"
   },
   "keywords": [],
   "author": "",
