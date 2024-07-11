@@ -8,4 +8,4 @@ const user_controller_1 = require("../controllers/user-controller");
 const router = express_1.default.Router();
 router.get("/user", user_controller_1.getUser);
 exports.default = router;
-//# sourceMappingURL=user.routes.js.map
+//# sourceMappingURL=user.route.js.map
